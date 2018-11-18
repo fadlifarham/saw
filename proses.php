@@ -208,7 +208,7 @@
 <!--            </div>-->
 
             <div class="section-top-border">
-                <h3 class="mb-30">Hasil SPK</h3>
+                <h3 class="mb-30">Alternatif Terbaik</h3>
                 <div class="progress-table-wrap">
                     <div class="progress-table">
                         <div class="table-head">
@@ -235,8 +235,8 @@
                 </div>
                 <br/>
                 <a href="sw.php" class="genric-btn primary-border circle arrow">
+                    <span class="lnr lnr-arrow-left"></span> &nbsp;
                     Back to SAW
-                    <span class="lnr lnr-arrow-left"></span>
                 </a>
             </div>
 

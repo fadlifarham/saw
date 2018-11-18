@@ -61,8 +61,8 @@
                         </p>
                         <a href="sw.php" class="primary-btn text-uppercase">Do it now</a>
                     </div>
-                    <div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
-                        <img class="img-fluid" src="img/hero-img.png" alt="">
+                    <div class="col-lg-6 col-md-6 banner-right d-flex">
+                        <img class="img-fluid" src="img/spk.jpg" alt="">
                     </div>
                 </div>
             </div>
