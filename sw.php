@@ -162,7 +162,7 @@
                             <div class="icon">
                                 <i class="fa fa-fast-forward" aria-hidden="true"></i>
                             </div>
-                            <input type="number" name="speed_processor" placeholder="Speed Processor"
+                            <input type="number" step="0.01" name="speed_processor" placeholder="Speed Processor"
                                    onfocus="this.placeholder=''" onblur="this.placeholder = 'Speed Processor'"
                                    required class="single-input">
                         </div>
@@ -171,7 +171,7 @@
                             <div class="icon">
                                 <i class="fa fa-video-camera" aria-hidden="true"></i>
                             </div>
-                            <input type="number" name="vga" placeholder="VGA"
+                            <input type="number" step="0.01" name="vga" placeholder="VGA"
                                    onfocus="this.placeholder=''" onblur="this.placeholder = 'VGA'"
                                    required class="single-input">
                         </div>
@@ -180,7 +180,7 @@
                             <div class="icon">
                                 <i class="fa fa-window-maximize" aria-hidden="true"></i>
                             </div>
-                            <input type="number" name="layar" placeholder="Layar"
+                            <input type="number" step="0.01" name="layar" placeholder="Layar"
                                    onfocus="this.placeholder=''" onblur="this.placeholder = 'Layar'"
                                    required class="single-input">
                         </div>
@@ -189,7 +189,7 @@
                             <div class="icon">
                                 <i class="fa fa-laptop" aria-hidden="true"></i>
                             </div>
-                            <input type="number" name="ram" placeholder="RAM"
+                            <input type="number" step="0.01" name="ram" placeholder="RAM"
                                    onfocus="this.placeholder=''" onblur="this.placeholder = 'RAM'"
                                    required class="single-input">
                         </div>
@@ -198,7 +198,7 @@
                             <div class="icon">
                                 <i class="fa fa-laptop" aria-hidden="true"></i>
                             </div>
-                            <input type="number" name="jenis_hardisk" placeholder="Jenis Hardisk"
+                            <input type="number" step="0.01" name="jenis_hardisk" placeholder="Jenis Hardisk"
                                    onfocus="this.placeholder=''" onblur="this.placeholder = 'Jenis Hardisk'"
                                    required class="single-input">
                         </div>
@@ -207,7 +207,7 @@
                             <div class="icon">
                                 <i class="fa fa-dollar" aria-hidden="true"></i>
                             </div>
-                            <input type="number" name="harga" placeholder="Harga"
+                            <input type="number" step="0.01" name="harga" placeholder="Harga"
                                    onfocus="this.placeholder=''" onblur="this.placeholder = 'Harga'"
                                    required class="single-input">
                         </div>
